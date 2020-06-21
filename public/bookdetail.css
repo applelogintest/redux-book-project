@@ -1,0 +1,31 @@
+.detail-border{
+    border-bottom: #61dafb solid 1px;
+    border-top: #61dafb solid 1px;
+}
+
+.poster{
+    width: 400px;
+    height: 600px;
+    position: absolute;
+
+}
+
+.info{
+    width: 400px;
+    height: 600px;
+    box-sizing:border-box;
+    position: relative;
+    left: 400px;
+    padding: 60px 0px;
+    line-height: 60px;
+    border: deepskyblue 2px solid;
+    border-left: deepskyblue 2px dashed;
+    border-radius: 20px;
+
+}
+
+.info-css{
+    font-size: 16px;
+    margin: 20px;
+    font-weight: bold;
+}
